@@ -1,4 +1,4 @@
 # ProgrammingPractise
 
 
-ProgrammingPractise/src/main/java/com/arraylist/TraverseArrayList.java
+https://github.com/kaurgurcharan/ProgrammingPractise/src/main/java/com/arraylist/TraverseArrayList.java
