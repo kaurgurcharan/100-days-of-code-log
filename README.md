@@ -18,5 +18,5 @@ Today's Progress: MergeSort is frequently asked interview questions
 
 Thoughts: It was difficult for me to solve but right logic is everything in programming. 
 
-https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/MergeSortPractise.java
+Code: https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/MergeSortPractise.java
 
