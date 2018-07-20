@@ -20,3 +20,9 @@ Thoughts: It was difficult for me to solve but right logic is everything in prog
 
 Code: https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/MergeSortPractise.java
 
+# Day 4 
+Today's Progress: I learned the basics of javascript using atom text editor and made a google map that display my current location and nearby location to it.
+
+Thoughts: what i believe in programming is to start with the small problem and practise it, who knows what graceful application you can make through our knowledge and skills
+
+Code: https://kaurgurcharan.github.io/javascriptAPI-googlemaps/
