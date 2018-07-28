@@ -26,3 +26,9 @@
 #Thoughts: what i believe in programming is to start with the small problem and practise it, who knows what graceful application you can make through our knowledge and skills
 
 #Code: https://kaurgurcharan.github.io/javascriptAPI-googlemaps/
+
+## Day 5
+#Today's Progress: The use of threads in java is very important for more responsive UI, for multiprocessor system or for performing asynchronous or background processing.
+
+#Thoughts
+#Code: https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/Test.java
