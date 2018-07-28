@@ -30,13 +30,13 @@
 ## Day 5
 #Today's Progress: The use of threads in java is very important for more responsive UI, for multiprocessor system or for performing asynchronous or background processing.
 
-#Thoughts
+#Thoughts: Threads can be implemented by extending classes or by implementing interface. Learnt about the newborn stage of thread and then move it to the runnable state for execution. Although everytime the output is different.
 #Code: https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/Test.java
         https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/Main.java
 
 
 ## Day 6
-#Today's Progress: 
+#Today's Progress: Threads have number of methods that helps to execute the processes and some of them are very common methods start(), sleep(millis), stop(), join()- use to die the threads etc.
 
-#Thoughts:
-#Code: 
+#Thoughts:Easy to learn the method as their name specify their functioning.
+#Code: https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/Racer.java
