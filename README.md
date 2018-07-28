@@ -32,3 +32,4 @@
 
 #Thoughts
 #Code: https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/Test.java
+        https://github.com/kaurgurcharan/100-days-of-code-log/blob/master/Main.java
